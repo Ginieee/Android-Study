@@ -1,0 +1,4 @@
+#Tue Nov 08 21:37:02 KST 2022
+base.0=C\:\\Users\\kaj12\\Desktop\\Self Study\\Android\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
